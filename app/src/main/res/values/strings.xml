@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerCarlos</string>
+    <string name="image_cara_1" />
+    <string name="btn_roller">Girar dado</string>
+</resources>
